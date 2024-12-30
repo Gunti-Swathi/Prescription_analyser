@@ -1,3 +1,13 @@
+
+## **Abstract**
+
+The healthcare industry often faces significant challenges in interpreting handwritten prescriptions, primarily due to the illegible and inconsistent handwriting commonly used by healthcare professionals. This issue can lead to misinterpretation, resulting in delays or errors in medication understanding, ultimately affecting patient care and pharmacist efficiency. To address these challenges, we propose "PharmaBot," a comprehensive solution designed to automate the extraction, organization, and interpretation of handwritten prescription data.
+
+PharmaBot leverages GEMINI optical character recognition (OCR) technology, with the assistance of the GEMINI vision bot, to extract pertinent information from handwritten prescriptions, converting unstructured content into a clear, structured format. The system organizes this extracted data into categories such as medication names, dosages, instructions, and other relevant details. Additionally, PharmaBot incorporates an intelligent chatbot powered by a rule-based approach using Retrieval-Augmented Generation (RAG) to enhance its ability to respond accurately to patient inquiries. The chatbot is capable of answering common questions, such as the purpose of specific medications, potential side effects, visual representations of drugs, and available alternatives with similar compositions.
+
+The integration of RAG ensures that the chatbot generates reliable and contextually relevant responses by utilizing a combination of knowledge retrieval and natural language generation. This innovative system aims to streamline the prescription interpretation process, minimize human errors, and empower patients and pharmacists by providing a reliable, user-friendly interface for medication-related inquiries.
+
+
 # **Introduction**
 
 Welcome to the **Medical Prescription Classification System**! This project is an innovative blend of computer vision and large language model (LLM) techniques, designed to revolutionize how medical prescriptions are analyzed and interpreted. 
@@ -18,15 +28,6 @@ Medical prescription analysis is a multifaceted challenge requiring robust solut
 Through this project, we aim to not only enhance the accuracy of prescription digitization but also enable informed decision-making, improving the quality of healthcare delivery worldwide.
 
 
-Obs
-
-## Abstract
-
-The healthcare industry often faces significant challenges in interpreting handwritten prescriptions, primarily due to the illegible and inconsistent handwriting commonly used by healthcare professionals. This issue can lead to misinterpretation, resulting in delays or errors in medication understanding, ultimately affecting patient care and pharmacist efficiency. To address these challenges, we propose "PharmaBot," a comprehensive solution designed to automate the extraction, organization, and interpretation of handwritten prescription data.
-
-PharmaBot leverages GEMINI optical character recognition (OCR) technology, with the assistance of the GEMINI vision bot, to extract pertinent information from handwritten prescriptions, converting unstructured content into a clear, structured format. The system organizes this extracted data into categories such as medication names, dosages, instructions, and other relevant details. Additionally, PharmaBot incorporates an intelligent chatbot powered by a rule-based approach using Retrieval-Augmented Generation (RAG) to enhance its ability to respond accurately to patient inquiries. The chatbot is capable of answering common questions, such as the purpose of specific medications, potential side effects, visual representations of drugs, and available alternatives with similar compositions.
-
-The integration of RAG ensures that the chatbot generates reliable and contextually relevant responses by utilizing a combination of knowledge retrieval and natural language generation. This innovative system aims to streamline the prescription interpretation process, minimize human errors, and empower patients and pharmacists by providing a reliable, user-friendly interface for medication-related inquiries.
 
 ## Model Architecture of PharmaBot
 
