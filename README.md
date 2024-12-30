@@ -29,7 +29,7 @@ Through this project, we aim to not only enhance the accuracy of prescription di
 
 
 
-## Model Architecture of PharmaBot
+## **Model Architecture of PharmaBot**
 
 The **PharmaBot** system is designed to automate the extraction and organization of information from handwritten prescriptions and provide an intelligent, context-aware chatbot to answer user queries about medications. The architecture is composed of several key components that work in harmony to extract, process, store, retrieve, and generate relevant answers for medication-related queries.
 
