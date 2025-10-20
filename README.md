@@ -113,11 +113,15 @@ Step 1: Launch the Streamlit Application and upload the prescription image
 <img width="627" height="365" alt="image" src="https://github.com/user-attachments/assets/679ce6db-7ce2-420d-8081-338680136bd7" />
 
 Step 2: Extracted Information from the Prescription
+
 <img width="620" height="613" alt="image" src="https://github.com/user-attachments/assets/1c57831f-a8b8-44f0-99fe-1cf1e3ed8ccd" />
 
 Step 3: Sample questions aked to chatbot according to the prescription
+
 <img width="564" height="424" alt="image" src="https://github.com/user-attachments/assets/4dfc208a-9d80-4cff-9ab4-5e10fece64e2" />
+
 <img width="604" height="655" alt="image" src="https://github.com/user-attachments/assets/9c21ca78-4516-44d3-a9a1-fb01a3d2ed25" />
+
 <img width="583" height="415" alt="image" src="https://github.com/user-attachments/assets/a8f09715-a21a-47b0-ae51-94ca0746d59c" />
 
 
